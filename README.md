@@ -5,9 +5,9 @@ or patterns. Anomalies in data are also called standard deviations, outliers,
 noise, novelties, and exceptions.
 
 • This model makes use of autoencoder model for audio anomaly detection, the
-autoencoder modelling is done using tensorflow(keras).
+autoencoder modelling is done using tensorflow.
 
-• This model can be used in many industries to check their equipment if there is
+• This model once trained can be used in many industries to check if their equipment if there is
 any abnormality in the working of certain equipments.
 
 Methadalogy:
